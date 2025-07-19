@@ -1,0 +1,20 @@
+{
+  "name": "fitnote",
+  "version": "1.0.0",
+  "description": "É uma aplicação web simples e eficiente para anotar, acompanhar e evoluir nos seus treinos. Ideal para quem busca organizar suas sessões de musculação.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SillasVinicius/FitNote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SillasVinicius/FitNote/issues"
+  },
+  "homepage": "https://github.com/SillasVinicius/FitNote#readme"
+}
